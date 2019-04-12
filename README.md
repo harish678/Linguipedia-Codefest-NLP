@@ -1,3 +1,5 @@
+![Libguipedia NLP Contest](sentiments_1920x480-thumbnail-1200x1200-90.jpg)
+
 # Linguipedia NLP
 
 ## Problem Statement
